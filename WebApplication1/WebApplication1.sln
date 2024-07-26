@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examen Final", "Examen Final.csproj", "{B5023FB3-4EFA-4EC2-A23F-0D6FE3FEC952}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "..\Entities\Entities.csproj", "{F9B5FC51-5B59-4B85-8B94-A2F932BF8CF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "..\Services\Services.csproj", "{9936E793-B5A8-43B7-A03F-39009681A105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5023FB3-4EFA-4EC2-A23F-0D6FE3FEC952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5023FB3-4EFA-4EC2-A23F-0D6FE3FEC952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5023FB3-4EFA-4EC2-A23F-0D6FE3FEC952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5023FB3-4EFA-4EC2-A23F-0D6FE3FEC952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B5FC51-5B59-4B85-8B94-A2F932BF8CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B5FC51-5B59-4B85-8B94-A2F932BF8CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B5FC51-5B59-4B85-8B94-A2F932BF8CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B5FC51-5B59-4B85-8B94-A2F932BF8CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9936E793-B5A8-43B7-A03F-39009681A105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9936E793-B5A8-43B7-A03F-39009681A105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9936E793-B5A8-43B7-A03F-39009681A105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9936E793-B5A8-43B7-A03F-39009681A105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D4EE53-F894-4001-8FC3-D59C98E60E32}
+	EndGlobalSection
+EndGlobal
